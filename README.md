@@ -84,7 +84,7 @@ This project  uses Mega.nz's services exclusively for generating session IDs. Th
    <br>
  <div align="center">
   <a href="https://toystack.ai">
-    <img src="https://img.shields.io/badge/Toystack%20Account-blue?style=for-the-badge&logo=Toystack" width="220" height="38.45" alt="Deploy to Toystack ">
+    <img src="https://img.shields.io/badge/Toystack%20Account-blue?style=for-the-badge&logo=Toystack" width="220" height="38.45" alt="Deploy to klivs.com ">
   </a>
 </div>
 
@@ -117,10 +117,6 @@ ThanksDG XEON FOR HIS TEACHINGS
 
 ## Follow our YouTube channel for free tutorials 
 <a href='https://youtube.com/@firenation-1?si=oejjr_WwBHs30gAR' target="_blank"><img alt='Follow on youtube' src='https://img.shields.io/badge/Follow on YouTube-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-   
-## 
-- Not For Sale
-- Do not clone because you can't 😀🔥
-
-
-
+<httml>klivie.com
+ 
+- <httpl>klivie.com  
